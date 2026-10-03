@@ -1,0 +1,2 @@
+/home/work/VSCode/morse/bin/Release/net10.0/linux-x64/publish/Morse.pdb
+/home/work/VSCode/morse/bin/Release/net10.0/linux-x64/publish/Morse

@@ -1,0 +1,14 @@
+/home/work/VSCode/morse/bin/Debug/net10.0/Morse
+/home/work/VSCode/morse/bin/Debug/net10.0/Morse.deps.json
+/home/work/VSCode/morse/bin/Debug/net10.0/Morse.runtimeconfig.json
+/home/work/VSCode/morse/bin/Debug/net10.0/Morse.dll
+/home/work/VSCode/morse/bin/Debug/net10.0/Morse.pdb
+/home/work/VSCode/morse/obj/Debug/net10.0/morse.GeneratedMSBuildEditorConfig.editorconfig
+/home/work/VSCode/morse/obj/Debug/net10.0/morse.AssemblyInfoInputs.cache
+/home/work/VSCode/morse/obj/Debug/net10.0/morse.AssemblyInfo.cs
+/home/work/VSCode/morse/obj/Debug/net10.0/morse.csproj.CoreCompileInputs.cache
+/home/work/VSCode/morse/obj/Debug/net10.0/Morse.dll
+/home/work/VSCode/morse/obj/Debug/net10.0/refint/Morse.dll
+/home/work/VSCode/morse/obj/Debug/net10.0/Morse.pdb
+/home/work/VSCode/morse/obj/Debug/net10.0/morse.genruntimeconfig.cache
+/home/work/VSCode/morse/obj/Debug/net10.0/ref/Morse.dll
